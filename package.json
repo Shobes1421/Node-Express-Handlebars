@@ -1,0 +1,24 @@
+{
+  "name": "node-express-handlebars",
+  "version": "1.0.0",
+  "description": "Burger App",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shobes1421/Node-Express-Handlebars.git"
+  },
+  "author": "David Shober",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shobes1421/Node-Express-Handlebars/issues"
+  },
+  "homepage": "https://github.com/Shobes1421/Node-Express-Handlebars#readme"
+}
